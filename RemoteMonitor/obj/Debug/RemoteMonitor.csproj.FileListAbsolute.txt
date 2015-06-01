@@ -1,0 +1,9 @@
+c:\users\michael.lopes\documents\visual studio 2012\Projects\RemoteMonitor\RemoteMonitor\bin\Debug\RemoteMonitor.exe.config
+c:\users\michael.lopes\documents\visual studio 2012\Projects\RemoteMonitor\RemoteMonitor\obj\Debug\RemoteMonitor.csprojResolveAssemblyReference.cache
+c:\users\michael.lopes\documents\visual studio 2012\Projects\RemoteMonitor\RemoteMonitor\obj\Debug\RemoteMonitor.FrmMain.resources
+c:\users\michael.lopes\documents\visual studio 2012\Projects\RemoteMonitor\RemoteMonitor\obj\Debug\RemoteMonitor.Properties.Resources.resources
+c:\users\michael.lopes\documents\visual studio 2012\Projects\RemoteMonitor\RemoteMonitor\obj\Debug\RemoteMonitor.csproj.GenerateResource.Cache
+c:\users\michael.lopes\documents\visual studio 2012\Projects\RemoteMonitor\RemoteMonitor\bin\Debug\RemoteMonitor.exe
+c:\users\michael.lopes\documents\visual studio 2012\Projects\RemoteMonitor\RemoteMonitor\bin\Debug\RemoteMonitor.pdb
+c:\users\michael.lopes\documents\visual studio 2012\Projects\RemoteMonitor\RemoteMonitor\obj\Debug\RemoteMonitor.exe
+c:\users\michael.lopes\documents\visual studio 2012\Projects\RemoteMonitor\RemoteMonitor\obj\Debug\RemoteMonitor.pdb
