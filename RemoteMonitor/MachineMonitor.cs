@@ -10,12 +10,13 @@ namespace RemoteMonitor
 {
     public class MachineMonitor
     {
+        
+        private ConnectionOptions co = null;
         private ManagementScope ms = null;
-        ConnectionOptions co = null;
+        private ManagementObjectSearcher searcherMemRam = null;
+        private ManagementObjectSearcher searcherCpu = null;
         private static MachineMonitor instance;
         private string machine = null;
-        ManagementObjectSearcher searcherMemRam = null;
-        ManagementObjectSearcher searcherCpu = null;
 
 
         public MachineMonitor(string machine, string username = null, string userPassword = null)
@@ -37,8 +38,8 @@ namespace RemoteMonitor
             co = new ConnectionOptions();
             if (string.IsNullOrEmpty(username) && string.IsNullOrEmpty(userPassword))
             {
-                co.Username = @"UNIVAG\michael.lopes";
-                co.Password = "@michel2015";
+                co.Username = username;
+                co.Password = userPassword;
             }
 
             ms = new ManagementScope("\\\\" + machine + "\\root\\cimv2", co);
